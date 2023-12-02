@@ -1,0 +1,9 @@
++ File "Heart.csv.csv" là tập tin chứa dữ liệu huấn luyện và kiểm thử - Ko thể thiếu ạ
++ File "heart1.csv" là tập tin chứa thông tin người cần dự đoán bệnh (Không chứa cột target - để dự đoán)
+
++ Khi chọn 1 tại Options -> Các sơ đồ hiện ra liên tục nhau khi tắt khung cửa sổ của sơ đồ trước đó ạ
++ Để dự đoán : Chạy chương trình -> Tại options -> chọn 3 -> Nhập thông tin tại "heart1.csv" -> gõ "Yes" tại chương trình chạy -> (Thông tin dự đoán)
+
++ Nếu quá trình chạy sảy ra lỗi thì 90% là do thiếu thư viện ạ. Và cũng không tránh được bị lỗi do các trường hợp khác, chúng em xin phép được hỗ trợ để chương trình chạy tốt nhất ạ.
+
+-Nhóm 17 chúng em xin cảm ơn ạ-
